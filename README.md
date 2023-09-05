@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Serdar Mustafapasa</h1>
 <h3 align="center">A Computer Engineer based in Deutschland</h3>
 
-- 🌱 I’m currently learning **IT-Management**
+- 🌱 I’m currently learning **M.Sc. IT-Management**
 
 - 📫 How to reach me **serdar@rrash.com**
 
